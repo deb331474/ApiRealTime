@@ -1,0 +1,15 @@
+org/testing/testScripts/TC4_RickAndGetAllParticular.class
+org/testing/utilities/Log.class
+org/testing/testBase/BaseTest.class
+org/testing/utilities/JsonParsing.class
+org/testing/stripeAPITesting/TC1_GetMemebershipOfABoard.class
+org/testing/testScripts/TC3_ReqResPostUsingUserInput.class
+org/testing/trelloAPITesting/TC1_GetMemebershipOfABoard.class
+org/testing/utilities/JsonReplacement.class
+org/testing/testScripts/TC5_GetAllMockbinServer.class
+org/testing/utilities/PropertiesHandle.class
+org/testing/testScripts/TC2_ReqResCreateParticularPOST.class
+org/testing/testScripts/TC1_ReqResGetAll.class
+org/testing/resources/JsonHandle.class
+org/testing/testSteps/HTTPMethods.class
+org/testing/testScripts/TC6_CreateUserMockbinServer.class
